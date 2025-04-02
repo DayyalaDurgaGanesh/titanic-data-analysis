@@ -1,3 +1,4 @@
+[titanic.pdf](https://github.com/user-attachments/files/19566210/titanic.pdf)
 # Titanic Data Analysis 🚢
 This project explores the Titanic dataset to analyze survival rates based on different factors like gender, age, and class.
 
